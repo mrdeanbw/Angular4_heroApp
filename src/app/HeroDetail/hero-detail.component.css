@@ -27,3 +27,8 @@ label {
     color: #ccc; 
     cursor: auto;
   }
+  button:disabledstyle {
+    background-color: #eee;
+    color: #ccc; 
+    cursor: auto;
+  }
